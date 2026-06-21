@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Step Form",
+  "description": "A sleek, minimalist multi-step form with live validation, an updated progress tracker, transitions, and local autosave persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
